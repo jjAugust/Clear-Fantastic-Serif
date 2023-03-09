@@ -8665,6 +8665,7 @@ width = 355;
 }
 );
 unicode = 233;
+changeCount = 1;
 },
 {
 glyphname = ecaron;
@@ -8687,6 +8688,7 @@ width = 355;
 }
 );
 unicode = 283;
+changeCount = 1;
 },
 {
 glyphname = ecircumflex;
@@ -8709,6 +8711,7 @@ width = 355;
 }
 );
 unicode = 234;
+changeCount = 1;
 },
 {
 glyphname = edieresis;
@@ -8731,6 +8734,7 @@ width = 355;
 }
 );
 unicode = 235;
+changeCount = 1;
 },
 {
 glyphname = edotaccent;
@@ -8753,6 +8757,7 @@ width = 355;
 }
 );
 unicode = 279;
+changeCount = 1;
 },
 {
 glyphname = egrave;
@@ -8775,6 +8780,7 @@ width = 355;
 }
 );
 unicode = 232;
+changeCount = 1;
 },
 {
 glyphname = emacron;
@@ -8797,6 +8803,7 @@ width = 355;
 }
 );
 unicode = 275;
+changeCount = 1;
 },
 {
 glyphname = eogonek;
