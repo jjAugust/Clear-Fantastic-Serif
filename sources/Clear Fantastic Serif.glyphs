@@ -25862,7 +25862,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Rodrigo Fuenzalida";
+value = "Junjie";
 }
 );
 },
@@ -25871,7 +25871,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = fragTYPE;
+value = none;
 }
 );
 },
@@ -25893,7 +25893,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2023 The Clear Fantastic Serif Project Authors (https://github.com/Clear Fantastic/Clear Fantastic-serif)";
+value = "Copyright 2023 The Clear Fantastic Serif Project Authors (https://github.com/jjAugust/Clear-Fantastic-Serif)";
 }
 );
 },
