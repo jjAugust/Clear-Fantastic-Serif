@@ -18031,7 +18031,7 @@ nodes = (
 width = 460;
 }
 );
-unicode = 48;
+unicode = 49;
 },
 {
 glyphname = one;
@@ -18088,7 +18088,7 @@ nodes = (
 width = 249;
 }
 );
-unicode = 49;
+unicode = 50;
 },
 {
 glyphname = two;
@@ -18237,7 +18237,7 @@ nodes = (
 width = 404;
 }
 );
-unicode = 50;
+unicode = 51;
 },
 {
 glyphname = three;
@@ -18402,7 +18402,7 @@ nodes = (
 width = 371;
 }
 );
-unicode = 51;
+unicode = 52;
 },
 {
 glyphname = four;
@@ -18551,7 +18551,7 @@ nodes = (
 width = 393;
 }
 );
-unicode = 52;
+unicode = 53;
 },
 {
 glyphname = five;
@@ -18665,7 +18665,7 @@ nodes = (
 width = 382;
 }
 );
-unicode = 53;
+unicode = 54;
 },
 {
 glyphname = six;
@@ -18778,7 +18778,7 @@ nodes = (
 width = 404;
 }
 );
-unicode = 54;
+unicode = 55;
 },
 {
 glyphname = seven;
@@ -18858,7 +18858,7 @@ nodes = (
 width = 364;
 }
 );
-unicode = 55;
+unicode = 56;
 },
 {
 glyphname = eight;
@@ -19005,7 +19005,7 @@ nodes = (
 width = 433;
 }
 );
-unicode = 56;
+unicode = 57;
 },
 {
 glyphname = nine;
@@ -19118,7 +19118,7 @@ nodes = (
 width = 402;
 }
 );
-unicode = 57;
+unicode = 48;
 },
 {
 glyphname = .notdef;

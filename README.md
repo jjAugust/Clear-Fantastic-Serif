@@ -1,9 +1,9 @@
 # Clear Fantastic Serif
 
 
-> Clear Fantastic Serif is a condensed, display serif font that has been designed for open-source usage, making it ideal for web-based and application design.
+Clear Fantastic Serif is a condensed, display serif font that has been designed for open-source usage, making it ideal for web-based and application design.
 
-![Drag Racing](./docs/1-header.gif)
+![Drag Racing](./docs/preview.png)
 
 
 ## Language support
